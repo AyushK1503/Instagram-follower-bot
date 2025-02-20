@@ -1,20 +1,21 @@
 LinkedIn Job Application Bot
-📌 Overview
+📌 Overview -
 This LinkedIn Job Application Bot automates the process of applying for jobs on LinkedIn using Selenium. The script logs into your LinkedIn account, navigates to job listings based on specified keywords and location, and automatically applies for jobs with a simple application process.
 
-🚀 Features
+🚀 Features -
 Automated Login: Logs into your LinkedIn account using provided credentials.
 Job Search: Searches for jobs based on predefined keywords and location.
 Auto-Apply: Automatically applies to job listings with the "Easy Apply" option.
 Smart Filtering: Skips complex applications requiring additional details.
 Captcha Handling: Pauses execution to allow manual Captcha solving.
 
-🛠️ Technologies Used
+🛠️ Technologies Used -
 Python 🐍
 Selenium WebDriver 🌐
 Chrome WebDriver 🏎️
 
-📌 Setup Instructions
+📌 Setup Instructions -
+
 Install dependencies:
 pip install selenium
 
